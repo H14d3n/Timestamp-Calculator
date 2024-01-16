@@ -1,4 +1,4 @@
-# Unix-Timestamp-Rechner
+# Unix-Timestamp-Calculator
 
 Welcome to the Unix Timestamp Calculator repository! This Java program allows you to convert between Unix timestamps and human-readable dates.
 This Project was created by a beginner to learn Java and its different Functions. I know that there is room for improvement.
